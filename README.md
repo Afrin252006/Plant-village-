@@ -32,9 +32,6 @@ python train.py
 - Early disease detection
 - Helps farmers increase yield
 
-🔗 Dataset Link
-
-(Add Kaggle link here)
 
 👤 Author
 
